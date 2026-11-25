@@ -221,7 +221,7 @@ StudyBuddy AI includes:
 * 🗂️ Dedicated chat, dashboard, documents, settings, and about pages
 
 ---
-
+<a id="preview"></a>
 ## 🖥️ Application Preview
 
 StudyBuddy AI provides a modern, interactive workspace for document-grounded question answering, knowledge-base management, analytics, and voice-enabled interaction.
@@ -257,7 +257,7 @@ StudyBuddy AI provides a modern, interactive workspace for document-grounded que
 *The integrated voice assistant enables users to interact with StudyBuddy AI using speech-to-text input and receive AI-generated responses through text-to-speech output.*
 
 ---
-
+<a id="architecture"></a>
 # 🏗️ System Architecture
 
 StudyBuddy AI separates the core RAG pipeline from the Streamlit presentation and application-management layers.
@@ -386,7 +386,7 @@ pyfiles/
 This architecture keeps the Streamlit frontend and application-management layer separate from the core RAG implementation.
 
 ---
-
+<a id="tech-stack"></a>
 # 🛠️ Technology Stack
 
 | Component               | Technology                                |
@@ -631,7 +631,7 @@ Users can ask questions related to the uploaded documents, such as:
 > 💡 The quality of the answer depends on the information available in the uploaded document corpus and the relevance of the retrieved context.
 
 ---
-
+<a id="setup"></a>
 # ⚙️ Installation & Setup
 
 ## 1️⃣ Clone the Repository
@@ -881,7 +881,7 @@ Additional thanks to:
 💼 Futurense Technologies Internship Program
 
 ---
-
+<a id="contact"></a>
 ### 📬 Connect With Me
 
 - 📧 **Email:** rohit.sharma200156@gmail.com
