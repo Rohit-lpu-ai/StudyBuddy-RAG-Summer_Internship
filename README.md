@@ -1,5 +1,24 @@
 # 📚 StudyBuddy AI — Intelligent Document Q&A with RAG
 
+<!-- DYNAMIC-README-HERO -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=190&section=header&text=StudyBuddy%20AI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    alt="StudyBuddy AI banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Intelligent+Document+Q%26A;Retrieval-Augmented+Generation;Ask+questions.+Get+grounded+answers.;Your+documents%2C+made+intelligent."
+      alt="Animated StudyBuddy AI tagline"
+    />
+  </a>
+</p>
+
 <p align="center">
   <strong>Ask questions. Get grounded answers. Explore your documents intelligently.</strong>
 </p>
